@@ -2,9 +2,11 @@
  * Site header
  */
 .site-header {
+  background-color: $header-background-color;
   border-top: 5px solid $grey-color-dark;
   border-bottom: 1px solid $grey-color-light;
   min-height: $spacing-unit * 1.865;
+
 
   // Positioning context for the mobile navigation icon
   position: relative;
@@ -135,7 +137,7 @@
 .contact-list,
 .social-media-list {
   list-style: none;
-  margin-left: 0;
+  margin-left: 100px;
 }
 
 .footer-col-wrapper {

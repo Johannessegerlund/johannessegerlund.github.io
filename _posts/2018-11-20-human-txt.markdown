@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Human
-date:   2018-11-18 06:25:00 -0500
+title: Human.txt
+date:   2018-11-20 06:25:00 -0500
 categories: jekyll update
+comments: true
+url: https://js224em-examination-1-js224em302734.codeanyapp.com/jekyll/update/2018/11/20/human-txt.html
 ---
-The humans are dead!
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+Human.txt är ett document som man har med på hemsidor där man hyllar de som har varit med att skapa sidan och dem som gett insperation eller
+hjälpt till på någotvis. Jag själv har tagit med skaparen samt lärare. Sedan har jag med var man kan kontakta mig
+både via sociala medier och mejl adress. Man skriver också med vilka program man kan ha använt så som jag har en bild som framställts via adobe
+ilustrator.
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
