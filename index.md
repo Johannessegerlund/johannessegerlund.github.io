@@ -4,9 +4,6 @@ title: Min Blogg
 permalink: /
 ---
 
-Detta är min Johannes Segerlunds hemsida.  
+Välkommen till min Johannes Segerlunds Blogg.  
 
 
-```javascript
-console.log('Så här presenteras kod')
-```

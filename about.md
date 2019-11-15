@@ -2,6 +2,7 @@
 layout: page
 title: Om mig
 permalink: /about/
+
 ---
 Det här är jag!
 En glad kille som har haft ett stort intresse för datorerer hela mitt liv.

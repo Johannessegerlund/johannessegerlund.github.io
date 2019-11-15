@@ -16,6 +16,7 @@
 title: 
 email: js224em@student.lnu.se
 description: >- # this means to ignore newlines until "baseurl:"
+  Min blogg
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://js224em-examination-1-js224em302734.codeanyapp.com" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  johannessegerlund
