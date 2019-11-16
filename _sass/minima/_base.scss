@@ -112,11 +112,12 @@ a {
   }
 
   &:hover {
-    color: $text-color;
+    color: #a9a9a9;
     text-decoration: underline;
   }
 
   .social-media-list &:hover {
+    color: #ffffff;
     text-decoration: none;
 
     .username {
