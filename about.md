@@ -20,7 +20,7 @@ Efter att ha jobbat i några månader började jag titta runt efter utbildningar
 Det såg väldigt spännande ut och sökte då in. Jag studerar nu på LNU och tycker jag gjort ett mycket bra val även fast det kan
 vara väldigt stressigt ibland.
 
-<img src="/Pics/jag.jpg" width="200" height="200" alt="">
+<img src="/pics/jag.jpg" width="200" height="200" alt="">
 #### Några intressen
 1.Gym
 2.Datorer
