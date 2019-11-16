@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Mina tankar angåend static site generator
+title: Mina tankar angående static site generator
 date:   2018-11-20 06:25:00 -0500
 categories: jekyll update
 ---

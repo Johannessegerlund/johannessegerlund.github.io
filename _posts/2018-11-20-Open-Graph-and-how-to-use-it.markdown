@@ -6,11 +6,20 @@ categories: jekyll update
 ---
 Open Graph används till länkar från din sida och hur dessa 
 ska presenteras. Man kan säga att det är ett verktyg för utvecklare
-eller för dig som vill påverka hur dina länkar ska fungera.
-Man kanske vill att den som klickar på en länk ska komma till en bild
-som finns inne på en annan sida. Om man bara länkar till en sida
-kanske bilden ligger i en underkatogori på denna sida och användaren blir
-då vidare kopplat till fel information. Man styr vart användaren ska titta.
+eller för dig som vill påverka hur dina länkar ska se ut. 
+Man får då en beskrivning av länken en bild och urlen samt en titel.
+
+Dessa är de som behövs för att använda dig av open graph det finns mer att använda sig av men dessa är krav.
+
+<ul>
+  <li>og:title</li>
+  <li>og:type </li>
+  <li>og:image </li>
+  <li>og:url </li>
+</ul>
+
+
+
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
