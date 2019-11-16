@@ -4,7 +4,6 @@ title: Om mig
 permalink: /about/
 
 ---
-Test test
 Det här är jag!
 En glad kille som har haft ett stort intresse för datorerer hela mitt liv.
 Jag har efter en gymnasium utbildning i ekonomi rest till Los Angeles och studerade då på Santa Monica collage.
