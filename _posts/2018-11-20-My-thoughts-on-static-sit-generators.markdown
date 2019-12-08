@@ -12,6 +12,12 @@ enligt förändringen. Man slipper alltså som exempel skriva färg kod som man 
 i flera olika filer utan räcker med en. Att ha en statisk sida har även posetiva fördelar
 när det gäller säkerhet (hackare) eller om det krävs snabba förändringar.
 
+static site generators är bra för just statiska sidor som ska använda mest text och få funktioner. 
+Som en blogg eller fotografs sida. Här kan man lätt ändra på färger det går snabbt och säkerheten är relativt hög. 
+Det finns även vissa tillägg man kan ha till en statisk sida, såsom disqus som vi har använt i denna uppgift. Däremot
+passar det inte lika bra när du tex behöver ha inloggningsmöjligheter till användare.
+
+
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
 [jekyll-talk]: https://talk.jekyllrb.com/
